@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "fastai",
+  "repo": "fastec2",
+  "versions": [
+    {
+      "commit": "6b47aa02351983f60d7797420791ac18e70a7f08",
+      "parsed_at": "2026-11-07T02:26:25.984546+00:00",
+      "filetree": "filetree/6b47aa02351983f60d7797420791ac18e70a7f08.nq.gz",
+      "blobs": [
+        "blob/d7abb4383151d2d66b9606e3fa893c894e5c6999.nq.gz",
+        "blob/6d2c93117f12b9666347daf5f3055bf65e85774b.nq.gz",
+        "blob/7fb91908d004d8182ad595937244cb374354a667.nq.gz",
+        "blob/3ab676c21342c31e263642cecbd920f5a0a3f8ba.nq.gz",
+        "blob/2864eaf5a5babb7b458932523bd05492fb261acb.nq.gz",
+        "blob/8eddff4edefb896fe0fee61db1539917720b0106.nq.gz",
+        "blob/c3c12be5ef53606e3b6957ced592192e65e1cb0a.nq.gz",
+        "blob/a1bab3072ec367f08950ec0ef16496852cdccf15.nq.gz",
+        "blob/f8212bf6555d5d1beddccdee493553f376c69cd5.nq.gz",
+        "blob/12e807dc37e20494f0a446e8c19c505ea2e25cf8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
